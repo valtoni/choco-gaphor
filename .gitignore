@@ -1,2 +1,3 @@
 tools/gaphor-*.exe
 output/
+**/*.nupkg

@@ -1,1 +1,17 @@
-88f3a13a8038811d578f9e8e3f5041b5dd2b8f6208d7dd3e7f9286ffe61d3edc
+VERIFICATION
+This package downloads the official Gaphor Windows installer from the publisher's GitHub Releases.
+
+Publisher: Gaphor
+Product:   Gaphor
+Version:   3.1.0
+
+Download URL (x64):
+  https://github.com/gaphor/gaphor/releases/download/3.1.0/gaphor-3.1.0-installer.exe
+
+Checksum (SHA256) for the downloaded file:
+  88F3A13A8038811D578F9E8E3F5041B5DD2B8F6208D7DD3E7F9286FFE61D3EDC
+
+Verification steps:
+1. Download the installer from the URL above.
+2. Compute its SHA256 hash.
+3. Ensure the computed hash exactly matches the value listed here.
