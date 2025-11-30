@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>gaphor</id>
-    <version>3.1.0</version>
+    <version>3.2.0</version>
 
     <title>gaphor (Install)</title>
     <summary>UML, SysML, RAAML, and C4 modeling application</summary>
@@ -19,7 +19,7 @@
     <packageSourceUrl>https://github.com/valtoni/choco-gaphor</packageSourceUrl>
     <docsUrl>https://docs.gaphor.org/</docsUrl>
     <bugTrackerUrl>https://github.com/gaphor/gaphor/issues</bugTrackerUrl>
-    <releaseNotes>https://github.com/gaphor/gaphor/releases/tag/3.1.0</releaseNotes>
+    <releaseNotes>https://github.com/gaphor/gaphor/releases/tag/3.2.0</releaseNotes>
 
     <iconUrl>https://gaphor.org/images/gaphor-24x24.png</iconUrl>
     <licenseUrl>https://github.com/gaphor/gaphor/blob/main/LICENSES/Apache-2.0.txt</licenseUrl>

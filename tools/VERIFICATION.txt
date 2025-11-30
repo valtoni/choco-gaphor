@@ -3,13 +3,13 @@ This package downloads the official Gaphor Windows installer from the publisher'
 
 Publisher: Gaphor
 Product:   Gaphor
-Version:   3.1.0
+Version:   3.2.0
 
 Download URL (x64):
-  https://github.com/gaphor/gaphor/releases/download/3.1.0/gaphor-3.1.0-installer.exe
+  https://github.com/gaphor/gaphor/releases/download/3.2.0/gaphor-3.2.0-installer.exe
 
 Checksum (SHA256) for the downloaded file:
-  88F3A13A8038811D578F9E8E3F5041B5DD2B8F6208D7DD3E7F9286FFE61D3EDC
+  C6076A89B3FF16318A32F4BA0F1872B258E82E50F93C9447C17FB3D623B4DF91
 
 Verification steps:
 1. Download the installer from the URL above.
